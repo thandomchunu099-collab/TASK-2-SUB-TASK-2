@@ -1,7 +1,7 @@
 # TASK-2-SUB-TASK-2// ============================================================
 // PAT 2 - Subtask 2: Morse Code Translator 
 // This program translates an English message into Morse code.
-// Each letter is displayed with its Morse code representation,
+// Each letter is displayed with its Morse code representation, 
 // followed by the full translated message on a single line.
 // ============================================================
  
