@@ -4,7 +4,7 @@
 // Each letter is displayed with its Morse code representation,
 // followed by the full translated message on a single line.
 // ============================================================
-
+ 
 #include <iostream>
 #include <string>
 using namespace std;
